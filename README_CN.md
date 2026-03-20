@@ -144,6 +144,10 @@ appstore-connect/
 | 新功能（What's New） | 4,000 字符 |
 | 审核备注（Review Notes） | 4,000 字符 |
 
+## 相关项目
+
+- **[ASO Pro Max](https://github.com/AfeiFun/aso-pro-max)** — 专业级 App Store 搜索优化 Claude Code 技能。审计、优化和扩展 App Store 元数据，最大化搜索可见性。与本技能搭配使用，可实现自动化 ASO 工作流。
+
 ## 开源协议
 
 MIT

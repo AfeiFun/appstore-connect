@@ -144,6 +144,10 @@ appstore-connect/
 | What's New | 4,000 characters |
 | Review Notes | 4,000 characters |
 
+## Related Projects
+
+- **[ASO Pro Max](https://github.com/AfeiFun/aso-pro-max)** — A Claude Code skill for professional App Store Optimization. Audit, optimize, and expand your App Store metadata for maximum search visibility. Works great with this skill for automated ASO workflows.
+
 ## License
 
 MIT
